@@ -1,0 +1,8 @@
+Ejercicios de repaso y práctica 
+* Ejercicios de ingreso y muestra de datos
+* Ejercicios con operadores aritméticos 
+* Ejercicios con operadores relacionales
+* Ejercicios con ciclos "mientras"
+* Ejercicios con ciclos "para"
+*
+*
